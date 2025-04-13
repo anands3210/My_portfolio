@@ -412,7 +412,7 @@ h3 { font-size: 1.5rem; }
     margin: 0 auto; 
 }
 .about-image img {
-    border-radius: 50%;
+    border-radius: 10%;
     border: 3px solid var(--neon-secondary);
     box-shadow: 0 0 15px var(--shadow-color-secondary);
     width: 100%; 
